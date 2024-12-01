@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "day01": "deno run 1/main.ts"
+  }
+}

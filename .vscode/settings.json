@@ -1,0 +1,9 @@
+{
+  "deno.enable": true,
+  "github.copilot.editor.enableCodeActions": false,
+  "github.copilot.chat.edits.enabled": false,
+  "github.copilot.enable": {
+    "*": false
+  },
+  "github.copilot.editor.enableAutoCompletions": false
+}

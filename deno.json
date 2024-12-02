@@ -1,8 +1,0 @@
-{
-  "tasks": {
-    "day01-example": "deno run --allow-read=./1/example.txt 1/partOne.ts ./1/example.txt",
-    "day01": "deno run --allow-read=./1/task.txt 1/partOne.ts ./1/task.txt",
-    "day01-p2-example": "deno run --allow-read=./1/example.txt 1/partTwo.ts ./1/example.txt",
-    "day01-p2": "deno run --allow-read=./1/task.txt 1/partTwo.ts ./1/task.txt"
-  }
-}

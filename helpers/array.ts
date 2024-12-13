@@ -16,3 +16,10 @@ export function distinct<T>(array: T[], comparator: (a: T, b: T) => boolean): T[
         index === array.findIndex(other => comparator(item, other))
     );
 }
+
+export function contains<T>(array: T[], value: T) {
+    for (const e of array) {
+        if (e === value) return true
+    }
+    return false
+}
